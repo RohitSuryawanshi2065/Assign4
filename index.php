@@ -40,7 +40,7 @@
        </style>
     </head>
     <body>
-        <div class="jumbotron text-center"><h1 style="color: white;">Restaurant Menu</h1></div>
+        <div class="jumbotron text-center"><h1 style="color: white;">Star Restaurant</h1></div>
        
 
         <div class="cont">
@@ -90,7 +90,7 @@
             <!-- <div class="footer1">
                 <div class="container-fluid"> -->
                     <p style="color: white;">&copy; Copyright 2016</p>
-                    <a href="mailto:foodrestro@gmail.com">foodrestro@gmail.com</a></p>
+                    <a href="mailto:rsuryawanshi@mitaoe.ac.in">rsuryawanshi@mitaoe.ac.in</a></p>
                     <!-- </div>
               </div> -->
         </footer>
