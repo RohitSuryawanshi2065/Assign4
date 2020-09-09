@@ -89,7 +89,7 @@
         <footer>
             <!-- <div class="footer1">
                 <div class="container-fluid"> -->
-                    <p style="color: white;">&copy; Copyright 2016</p>
+                    <p style="color: white;">&copy; Copyright 2020</p>
                     <a href="mailto:rsuryawanshi@mitaoe.ac.in">rsuryawanshi@mitaoe.ac.in</a></p>
                     <!-- </div>
               </div> -->
